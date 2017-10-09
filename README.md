@@ -25,3 +25,6 @@ Após clonar este repositório:
 
 # Criação do post
 ![](https://lh4.googleusercontent.com/cqaqsK9VwsGA9ubeo-28wKSan9ZCg8Bfg9jRxtN9gHI96DRA1HLyB5XFm15JEBUmvgu2hPSxw9AamH4=w1366-h637)
+
+# Acesso ao post
+![](https://lh5.googleusercontent.com/ONOgutMj8mfpIS2fZWRcPGbfOPa7Km6h4efVmQ6MA_9eTAv_9Lfha5lIZ8XRGZfBC7VzsC5bfOwySCE=w1366-h637)
