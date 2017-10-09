@@ -16,9 +16,12 @@ Após clonar este repositório:
 * Não é necessário estar logado para poder ver os posts.
 
 ## Screenshots
+
+# Postagens
+![](https://lh6.googleusercontent.com/7djpTPjMk77AX-UURSNskgMCK7_7FC7-KyW6aFJleOKakm4VzNA0IZ3hzkcoNHvEAKeJNycdSqK1bCs=w1366-h637)
+
 # Área Administrativa
-![](http://image.ibb.co/ecdJow/dashboard.png)
+![](https://lh5.googleusercontent.com/C7ZqYver0ueW4nGwPT0-P4_vfk1jOb3MgNjDmlQGnJHjjnMejl2FqQnyyOW1K7koBf5WFexDA-WmO44=w1366-h637)
+
 # Criação do post
-![](http://image.ibb.co/hOQngG/criar_post.png)
-# Criação do post
-![](http://image.ibb.co/iSg4Tw/blogs.png)
+![](https://lh4.googleusercontent.com/cqaqsK9VwsGA9ubeo-28wKSan9ZCg8Bfg9jRxtN9gHI96DRA1HLyB5XFm15JEBUmvgu2hPSxw9AamH4=w1366-h637)
