@@ -18,13 +18,13 @@ Após clonar este repositório:
 ## Screenshots
 
 # Postagens
-![](https://lh6.googleusercontent.com/7djpTPjMk77AX-UURSNskgMCK7_7FC7-KyW6aFJleOKakm4VzNA0IZ3hzkcoNHvEAKeJNycdSqK1bCs=w1366-h637)
+![](https://i.imgur.com/70kACcD.png)
 
 # Área Administrativa
-![](https://lh5.googleusercontent.com/C7ZqYver0ueW4nGwPT0-P4_vfk1jOb3MgNjDmlQGnJHjjnMejl2FqQnyyOW1K7koBf5WFexDA-WmO44=w1366-h637)
+![](https://i.imgur.com/0jcZkCd.png)
 
 # Criação do post
-![](https://lh4.googleusercontent.com/cqaqsK9VwsGA9ubeo-28wKSan9ZCg8Bfg9jRxtN9gHI96DRA1HLyB5XFm15JEBUmvgu2hPSxw9AamH4=w1366-h637)
+![](https://i.imgur.com/J6I9yps.png)
 
 # Acesso ao post
-![](https://lh5.googleusercontent.com/ONOgutMj8mfpIS2fZWRcPGbfOPa7Km6h4efVmQ6MA_9eTAv_9Lfha5lIZ8XRGZfBC7VzsC5bfOwySCE=w1366-h637)
+![](https://i.imgur.com/sapesCR.png)
